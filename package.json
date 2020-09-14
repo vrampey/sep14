@@ -4,12 +4,9 @@
   "description": "my second program",
   "main": "app.js",
   "scripts": {
-    "myprog": "nodemon app.js",
-    "envport": "nodemon envport.js",
-    "premyprog": "dir",
-    "postmyprog": "dir"
- 
-  },
+    "myprog": "nodemon app.js"
+    
+   },
   "keywords": [
     "nodejs",
     "expressjs"
