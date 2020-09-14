@@ -1,0 +1,24 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "my second program",
+  "main": "app.js",
+  "scripts": {
+    "myprog": "nodemon app.js",
+    "envport": "nodemon envport.js",
+    "premyprog": "dir",
+    "postmyprog": "dir"
+ 
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "VR",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1"
+  },
+  "config":{"port": "2017"}
+}
